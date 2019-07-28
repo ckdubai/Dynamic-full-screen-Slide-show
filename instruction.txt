@@ -1,0 +1,3 @@
+Copy the folder to htdocs in xampp folder
+Copy your photo to images folder
+Access site by typing http://localhost/slideshow in any browser.
